@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charishma2611
 - 👀 I’m interested in web/Frontend development
-- 🌱 I’ve completed my graduation in BE computer science
+- 🌱 I’ve completed my graduation in BE computer science (2024)
 - 💞️ I’m looking for a software engineer role
 - 📫 How to reach me charishmakc26@gmail.com
 
